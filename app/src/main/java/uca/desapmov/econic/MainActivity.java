@@ -83,7 +83,7 @@ public class MainActivity extends AppCompatActivity implements ItemTapListener{
     private List<metasModel> mModelListMeta;
     private metasAssetSource assetSourceMeta;
 
-    private ViewGroup rootView;
+    //private ViewGroup rootView;
 
     // toolbar titles respected to selected nav menu item
     private String[] activityTitles;
@@ -143,7 +143,7 @@ public class MainActivity extends AppCompatActivity implements ItemTapListener{
 
     private void setup() {
         setupViewFromData();  //CHANGE
-        rootView = findViewById(R.id.ly_root);
+        //rootView = findViewById(R.id.drawer_layout);
 
     }
 
@@ -325,7 +325,7 @@ public class MainActivity extends AppCompatActivity implements ItemTapListener{
                 assetSourceMeta = new metasAssetSource(getBaseContext());
                 mModelListMeta = new ArrayList<>();
 
-                if(!mModelListFund.isEmpty()) {
+                if(!mModelListMeta.isEmpty()) {
                     Log.d(TAG, "Ya existen valores en la lista");
                     break;
                 }
