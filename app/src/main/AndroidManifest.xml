@@ -18,20 +18,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Econic">
-        <activity
-            android:name=".drawers"
-            android:label="@string/title_activity_drawers"
-            android:theme="@style/Theme.Econic.NoActionBar"></activity>
         <activity android:name=".StartActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".MainActivity" />
         <activity android:name=".OnboardingActivity" />
         <activity android:name=".SignUpActivity" />
-        <activity android:name=".MainActivity" />
         <activity android:name=".Fundations" />
 
         <meta-data

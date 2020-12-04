@@ -6,35 +6,40 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context=".MainActivity">
-
+    tools:context="uca.desapmov.econic.MainActivity">
 
     <com.google.android.material.appbar.AppBarLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:theme="@style/Platform.MaterialComponents">
+        android:layout_height="wrap_content">
 
-        <com.google.android.material.appbar.MaterialToolbar
+        <androidx.appcompat.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
-            android:layout_height="50dp"
-            android:background="?attr/colorPrimary"
-            app:popupTheme="@style/Platform.MaterialComponents" />
+            android:layout_height="?attr/actionBarSize"
+            android:gravity="center_vertical"
+            android:layout_gravity="center_vertical"
+            android:textAlignment="gravity"
+            app:titleTextColor="@color/offWhite"
+            app:subtitleTextColor="@color/offWhite"
+            android:background="@color/darkGreen"
+            app:popupTheme="@style/Theme.Econic" />
 
     </com.google.android.material.appbar.AppBarLayout>
 
     <FrameLayout
         android:id="@+id/frame"
         android:layout_width="match_parent"
+        android:background="@color/darkGreen"
         android:layout_height="match_parent"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior"/>
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    </FrameLayout>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
         android:id="@+id/fab"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
-        android:layout_margin="10dp"
-        app:backgroundTint="@color/saturatedGreen"
-        app:srcCompat="@android:drawable/ic_dialog_email" />
+         />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
+

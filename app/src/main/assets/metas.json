@@ -1,94 +1,155 @@
 {
-  "metas": [{
-    "meta:": "Utiliza el transporte público."
-  },
+  "metas": [
     {
-      "meta:": "Compra productos locales."
+    "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 1",
+    "meta": "Utiliza el transporte público."
     },
     {
-      "meta:": "Utiliza bolsas reciclables cuando vayas a comprar."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 2",
+    "meta": "Compra productos locales."
     },
     {
-      "meta:": "Evita los productos envasados en plástico y apuesta por aquellos que están envasados en papel, cartón o vidrio."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 3",
+    "meta": "Utiliza bolsas reciclables cuando vayas a comprar."
     },
     {
-      "meta:": "Compra productos a granel como legumbres, frutos secos, jabones etc."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 4",
+    "meta": "Evita los productos envasados en plástico y apuesta por aquellos que están envasados en papel, cartón o vidrio."
     },
     {
-      "meta:": "Apaga las luces de la casa en donde no las estes ocupando."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 5",
+    "meta": "Compra productos a granel como legumbres, frutos secos, jabones etc."
     },
     {
-      "meta:":"Utiliza  electrodomésticos de bajo consumo."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 6",
+    "meta": "Apaga las luces de la casa en donde no las estes ocupando."
     },
     {
-      "meta:":"Utiliza  electrodomésticos de bajo consumo."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 7",
+    "meta":"Utiliza  electrodomésticos de bajo consumo."
     },
     {
-      "meta:":"Utiliza   bombillas tipo led."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 8",
+    "meta":"Utiliza  electrodomésticos de bajo consumo."
     },
     {
-      "meta:":"Recicla los desechos que generas y reutiliza todo lo que sea posible."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 9",
+    "meta":"Utiliza   bombillas tipo led."
     },
     {
-      "meta:":"Consume productos ecológicos."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 10",
+    "meta":"Recicla los desechos que generas y reutiliza todo lo que sea posible."
     },
     {
-      "meta:":"Elige, a la hora de comprar el coche, un modelo de bajo consumo energético."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 11",
+    "meta":"Consume productos ecológicos."
     },
     {
-      "meta:":"Usa espráis que sean respetuosos con el medio ambiente y no generen gases invernadero."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 12",
+    "meta":"Elige, a la hora de comprar el coche, un modelo de bajo consumo energético."
     },
     {
-      "meta:":"Desplazate en bicicleta."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 13",
+    "meta":"Usa espráis que sean respetuosos con el medio ambiente y no generen gases invernadero."
     },
     {
-      "meta:":"Cuida la zonas verdes de tu comunidad."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 14",
+    "meta":"Desplazate en bicicleta."
     },
     {
-      "meta:":"No derroches agua."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 15",
+    "meta":"Cuida la zonas verdes de tu comunidad."
     },
     {
-      "meta:":"Reduce el consumo de carne y lacteos en  tu dieta."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 16",
+    "meta":"No derroches agua."
     },
     {
-      "meta:":"Crea una zona verde en tu comunidad."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 17",
+    "meta":"Reduce el consumo de carne y lacteos en  tu dieta."
     },
     {
-      "meta:":"Siembra plantas en tu hogar."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 18",
+    "meta":"Crea una zona verde en tu comunidad."
     },
     {
-      "meta:":"No fuemes en espacios cerrados."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 19",
+    "meta":"Siembra plantas en tu hogar."
     },
     {
-      "meta:": "Separa la basura por categoria."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 20",
+    "meta":"No fuemes en espacios cerrados."
+    },
+    {
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 21",
+    "meta": "Separa la basura por categoria."
     },
 
     {
-      "meta:":"No arrojes basura en la calle, bosques y parques, y envuélvela o tápala bien en la casa."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 22",
+    "meta":"No arrojes basura en la calle, bosques y parques, y envuélvela o tápala bien en la casa."
     },
     {
-      "meta:":"Evita quemar basura y llantas, así como usar cohetes artificiales."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 23",
+    "meta":"Evita quemar basura y llantas, así como usar cohetes artificiales."
     },
     {
-      "meta:":"Afina y da mantenimiento a los automóviles."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 24",
+    "meta":"Afina y da mantenimiento a los automóviles."
     },
     {
-      "meta:":"Usa racionalmente los plaguicidas."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 25",
+    ",meta:":"Usa racionalmente los plaguicidas."
     },
     {
-      "meta:":"Cuida los bosques: no provoques incendios ni destruyas las zonas verdes de la ciudad."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 26",
+    "meta":"Cuida los bosques: no provoques incendios ni destruyas las zonas verdes de la ciudad."
     },
     {
-      "meta:":"Pospón las tareas de jardinería que requieran el uso de herramientas a gasolina en días de alto nivel de de ozono."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 27",
+    "meta":"Pospón las tareas de jardinería que requieran el uso de herramientas a gasolina en días de alto nivel de de ozono."
     },
     {
-      "meta:":"Restringe la limpieza en seco."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 28",
+    "meta":"Restringe la limpieza en seco."
     },
     {
-      "meta:":"Evita el uso de pinturas, aceites y solventes en días de alta concentración de ozono."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 29",
+    "meta":"Evita el uso de pinturas, aceites y solventes en días de alta concentración de ozono."
     },
     {
-      "meta:":"Prende el carbón de leña con un encendedor eléctrico, en vez de hacerlo con combustible líquido."
+      "imgUrl": "https://www.pngitem.com/pimgs/m/632-6329807_business-challenge-challenges-icon-hd-png-download.png",
+    "nombre": "reto 30",
+    "meta":"Prende el carbón de leña con un encendedor eléctrico, en vez de hacerlo con combustible líquido."
     }
   ]
 
