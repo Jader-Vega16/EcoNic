@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cvStart"
+        android:layout_gravity="center"
+        android:layout_width="500dp"
+        android:layout_height="150dp"
+        card_view:cardCornerRadius="4dp">
+
+        <ImageView
+            android:id="@+id/ivAvance"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:src="@drawable/econic_logo_01"
+            android:contentDescription="@string/app_name" />
+
+        <TextView
+            android:id="@+id/txtAvance"
+            android:layout_width="278dp"
+            android:layout_height="71dp"
+            android:layout_gravity="end"
+            android:layout_marginTop="30dp" />
+
+        <ProgressBar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="5dp"
+            android:max="87"
+            style="@style/Widget.AppCompat.ProgressBar.Horizontal"
+            />
+
+    </androidx.cardview.widget.CardView>
+
+</RelativeLayout>

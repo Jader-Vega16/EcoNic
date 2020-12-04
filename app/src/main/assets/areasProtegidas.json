@@ -1,0 +1,94 @@
+{
+  "areasProtegidas": [
+    {
+      "areaImg": "chiltepe.jpg",
+      "ImgUrl": "https://cdn.photosight.ru/img/9/c0f/6098302_xlarge.jpg",
+      "nombre": "Reserva natural Península de Chiltepe",
+      "categoria": "Reserva natural",
+      "superficie": "400 metros de profundidad y 2 kilómetros de diámetro",
+      "descripcion": "La Reserva Natural Península de Chiltepe es un área protegida de importancia para la vida silvestre que comprende los llamados \"Cerros Cuapes\" de la península de Chiltepe sobre la curva de nivel de los 200 metros y las lagunas de Apoyeque y Xiloá (Jilóa). ",
+      "fauna": "Hace más de tres décadas en esta zona existían: coyotes, venados, mapaches, conejos y otros mamíferos menores; además de muchas iguanas y garrobos, los cuales han ido desapareciendo por la presión de cacería y captura. ",
+      "region": "Pacifico"
+    },
+    {
+      "areaImg": "solentiname.jpg",
+      "ImgUrl": "https://funart.pro/uploads/posts/2019-10/1572172254_bajkal-ozero-rossija-55.jpg",
+      "nombre": "Monumento Nacional Archipiélago de Solentiname",
+      "categoria": "Monumento",
+      "superficie": "190 km²",
+      "descripcion": "El Archipiélago de Solentiname es un grupo de 36 islas e islotes de varios tamaños con una superficie de tierra firme de 4.020 hectáreas y su elevación oscila entre los 30 y 250 metros sobre el nivel del mar, situado en el extremo sur-este del Gran Lago de Nicaragua o Cocibolca, administrativamente pertenece al municipio de San Carlos del departamento de Río  San Juan en Nicaragua.",
+      "fauna": "",
+      "region": "Pacifico"
+    },
+    {
+      "areaImg": "Tiscapa.jpg",
+      "ImgUrl": "https://cdn.photosight.ru/img/9/c0f/6098302_xlarge.jpg",
+      "nombre": "Reserva natural Laguna de Tiscapa",
+      "categoria": "volcánica",
+      "superficie": "0.4 km²",
+      "descripcion": "La Reserva Natural Laguna de Tiscapa, se ubica en la parte sureste de la ciudad de  Managua, capital de Nicaragua a escasos 2 kilómetros de la costa del Lago de Managua o Xolotlán. Comprende la Loma de Tiscapa y la Laguna de Tiscapa, una laguna de origen volcánico formada hace más de 10000 años",
+      "fauna": "Su ecosistema único, con su propias características de flora y fauna y su altura, le dan una vista privilegiada del paisaje escénico de Managua, desde donde se observan los edificios más representativos de la ciudad. ",
+      "region": "Pacifico"
+    },
+    {
+      "areaImg": "Miraflor.jpg",
+      "ImgUrl": "https://funart.pro/uploads/posts/2019-10/1572172254_bajkal-ozero-rossija-55.jpg",
+      "nombre": "Reserva natural Miraflor",
+      "categoria": "Reserva natural",
+      "superficie": "46.695,86 Ha.",
+      "descripcion": "La Reserva Natural Miraflor es un área destinado a la conservación de los recursos naturales en la ciudad de Estelí, Nicaragua Está ubicada en la jurisdicción de la Ciudad de Estelí, a 1450 msnm con 206 km², cuenta con diversidad de variedades de flora y fauna. Está dividida en diferentes zonas: Está dividida en diferentes zonas: bosque tropical seco, bosque de praderas naturales (Mesa de Moropotente) y latifoliadas de nebliselva y la zona de amortiguamiento",
+      "fauna": "La vegetación proporciona el espacio propicio para el desarrollo y hábitat de mamíferos, felinos, aves. Las especies de aves predominantes en la reserva son los Togones o cobas de la familia Trogonidae, especialmente tienen presencia los machos.",
+      "region": "Pacifico"
+    },
+    {
+      "areaImg": "Nejapa.jpg",
+      "ImgUrl": "https://cdn.photosight.ru/img/9/c0f/6098302_xlarge.jpg",
+      "nombre": "Laguna de Nejapa",
+      "categoria": "Volcanica",
+      "superficie": "0,19 km²",
+      "descripcion": "Laguna de Nejapa es una laguna de origen volcánico localizada al oeste, en la zona más alta de la ciudad de Managua, Capital de Nicaragua y ocupa una depresión ovalada de 160 metros de hondo, formada por tres colapsos al pie del cerro Motastepe (\"cerro de las piñuelas\"), que es el fondo del volcán extinto que le dio su nombre, como sus vecinas Tiscapa y Asososca.",
+      "fauna": "La fauna terrestre ha desaparecido casi en su totalidad por la acción de cazadores furtivos que incursionan sus laderas y provocan incendios.",
+      "region": "Pacifico"
+    },
+    {
+      "areaImg": "bosawas.jpg",
+      "ImgUrl": "https://funart.pro/uploads/posts/2019-10/1572172254_bajkal-ozero-rossija-55.jpg",
+      "nombre": "Reserva de la biosfera Bosawás",
+      "categoria": "Reserva",
+      "superficie": "10,500 km²",
+      "descripcion": "La Reserva de la Biosfera Bosawás se encuentra en el departamento de Jinotega (frontera con Honduras), compartida por la Región Autónoma de la Costa Caribe Norte (RACCN) y en una pequeña parte por el departamento de Nueva Segovia en Nicaragua. ",
+      "fauna": "Bosawás es un punto de convergencia de fauna de Norte y Sudamérica y posee una enorme riqueza en organismos tanto invertebrados como vertebrados. ",
+      "region": "Central"
+    },
+    {
+      "areaImg": "canonSomoto.jpg",
+      "ImgUrl": "https://cdn.photosight.ru/img/9/c0f/6098302_xlarge.jpg",
+      "nombre": "Monumento nacional Cañón de Somoto",
+      "categoria": "Monumento Nacional",
+      "superficie": "13 km²",
+      "descripcion": "Monumento nacional Cañón de Somoto localizado en el municipio de Somoto del departamento de Madriz, Nicaragua, es un área protegida y monumento nacional conforme a la Ley No. 605, \"Ley que Declara Área Protegida en la Categoría de Monumento Nacional al Cañón de Somoto aprobada el 29 de noviembre de 2006 y publicada en La Gaceta No. 240 del 12 de diciembre del mismo año. ",
+      "fauna": "",
+      "region": "CentCral"
+    },
+    {
+      "areaImg": "estanzuela.jpg",
+      "ImgUrl": "https://funart.pro/uploads/posts/2019-10/1572172254_bajkal-ozero-rossija-55.jpg",
+      "nombre": "Reserva natural Tisey-La Estanzuela",
+      "categoria": "Reserva Natural",
+      "superficie": "800-1600 mm.",
+      "descripcion": "La Reserva Natural Tisey-La Estanzuela se encuentra a 3 km de la ciudad de Estelí cabecera departamental del departamento. Se ubica en la Región Norcentral de Nicaragua, ocupa territorios del municipio de Estelí, San Nicolás de Oriente, El Sauce en la cuenca Sur del Río Estelí.",
+      "fauna": "Se han inventariado alrededor de 99 especies, entre aves, mamíferos, reptiles y anfibios. 13 especies de las inventariadas están reguladas por los CITES y otras 13 bajo los regímenes de veda nacional. ",
+      "region": "Central"
+    },
+    {
+      "areaImg": "cayos.jpg",
+      "ImgUrl": "https://cdn.photosight.ru/img/9/c0f/6098302_xlarge.jpg",
+      "nombre": "Cayos Miskitos",
+      "categoria": "Reserva Biologica",
+      "superficie": "27 km²",
+      "descripcion": "Los Cayos Miskitos son un archipiélago con una superficie de 27 km² situado en el mar adentro en la costa noreste caribeña de Nicaragua. Forman parte de la RACCN. Están compuestos de 76 formaciones que incluyen estuarios, arrecifes de coral, cayos, bancos de hierbas submarinas e islotes, de los cuales 12 de las formaciones están cubiertas con vegetación y por consiguiente forman islas que están bordeadas con playas de arena blanca.",
+      "fauna": "",
+      "region": "Region Autonoma Caribe Norte"
+    }
+  ]
+}

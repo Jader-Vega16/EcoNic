@@ -1,0 +1,101 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Econic" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/saturatedGreen</item>
+        <item name="colorOnPrimary">@color/offWhite</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/darkGreen</item>
+        <item name="colorOnSecondary">@color/lightGreen</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/notSoDarkGreen</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Headline1" parent="TextAppearance.MaterialComponents.Headline1">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:fontFamily">@font/cabin</item>
+        <item name="android:textSize">104sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Headline2" parent="TextAppearance.MaterialComponents.Headline2">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:fontFamily">@font/cabin</item>
+        <item name="android:textSize">65sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Headline3" parent="TextAppearance.MaterialComponents.Headline3">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:fontFamily">@font/cabin</item>
+        <item name="android:textSize">52sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:fontFamily">@font/cabin</item>
+        <item name="android:textSize">37sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:fontFamily">@font/cabin</item>
+        <item name="android:textSize">26sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Headline6" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:fontFamily">@font/cabin</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Subtitle1" parent="TextAppearance.MaterialComponents.Subtitle1">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:fontFamily">@font/cabin</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Subtitle2" parent="TextAppearance.MaterialComponents.Subtitle2">
+        <item name="fontFamily">@font/cabin</item>
+        <item name="android:fontFamily">@font/cabin</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/hind</item>
+        <item name="android:fontFamily">@font/hind</item>
+        <item name="android:textSize">17sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/hind</item>
+        <item name="android:fontFamily">@font/hind</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Button" parent="TextAppearance.MaterialComponents.Button">
+        <item name="fontFamily">@font/hind</item>
+        <item name="android:fontFamily">@font/hind</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Caption" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="fontFamily">@font/hind</item>
+        <item name="android:fontFamily">@font/hind</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="TextAppearance.MdcTypographyStyles.Overline" parent="TextAppearance.MaterialComponents.Overline">
+        <item name="fontFamily">@font/hind</item>
+        <item name="android:fontFamily">@font/hind</item>
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="Theme.Econic.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Econic.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.Econic.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>

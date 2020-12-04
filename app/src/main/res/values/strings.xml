@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Econic</string>
+    <string name="sample_title">Titulo</string>
+    <string name="sample_description"> Officia sint dolorem molestiae natus hic sapiente. Debitis pariatur doloremque aut aspernatur officia. Et commodi quis voluptas quis enim quibusdam quia </string>
+    <string name="sample_image">Image.jpg</string>
+    <string name="big_bienvenida">Bienvenido a EcoNIC!</string>
+    <string name="smol_bienvenida">presiona el boton!</string>
+    <string name="genial_verdad">not really</string>
+    <string name="start">maybe really</string>
+    <string name="example_email">Tu Email ej: johndoe@mail.com</string>
+    <string name="password">Tu Contraseña</string>
+    <string name="login">Inicia sesión</string>
+    <string name="loginGoogle">Inicia sesión con Google</string>
+    <string name="newAccount"><u>Crea una cuenta</u></string>
+    <string name="AccountName">Nombre completo</string>
+    <string name="AccountEmail">Correo electrónico</string>
+    <string name="AccountPwd">Contraseña</string>
+    <string name="ConfirmPwd">Repite tu Contraseña</string>
+    <string name="welcome">¡Bienvenidos a EcoNic!</string>
+    <string name="events">Eventos</string>
+    <string name="myevents">Mis Eventos</string>
+    <string name="fullname_error">Por favor ingresa tu nombre completo</string>
+    <string name="email_error">Por favor ingresa tu email</string>
+    <string name="password_error">Por favor inrgesa tu contraseña</string>
+    <string name="password_confirmacion">Las contraseñas no son identicas</string>
+    <string name="welcome_user_title">Bienvenido, %s</string>
+    <string name="cannot_get_email">No pudimos obtener el email :(</string>
+    <string name="title_activity_drawers">drawers</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
